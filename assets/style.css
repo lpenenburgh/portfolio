@@ -1,0 +1,23 @@
+/* Background picture */
+body {
+    background-image: url("./annie-spratt-8mqOw4DBBSg-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right top;
+     background-attachment: scroll;
+}
+
+
+
+
+/* Form label color */
+label {
+    color: aliceblue;
+}
+
+/* form placement */
+form {
+    margin-top: 95px;
+}
+
+
