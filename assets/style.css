@@ -7,24 +7,28 @@ body {
     background-size: cover;
 }
 
-
-
-/* Form label color */
-label {
-    color: aliceblue;
-}
-
-/* form placement */
-.container {
-    margin-top: 100px;
-    margin-bottom: 95px;
-}
-
-
+/* font changes */
 h1 {
     color: aliceblue;
 }
 
 h5 {
     font-size: 35px;
+}
+
+
+/* Contact form */
+label {
+    color: aliceblue;
+}
+
+.container {
+    margin-top: 100px;
+    margin-bottom: 95px;
+}
+
+
+/* Portfolio images */
+.card-img-top {
+    margin-bottom: 20px;
 }
