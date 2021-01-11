@@ -7,7 +7,7 @@ My goal for this assigment was to create a functional portfolio application that
 ### Methods for achieving goals
 
 * How I made my portfolio application functional:
-    * I created a functional, deployed link for my application by creating a repository on GitHub in which I pushed my code to. Using GitHub Pages, I was able to publish my repository- giving the application it's own web address: "https://lpenenburgh.github.io/responsive-portfolio/"
+    * I created a functional, deployed link for my application by creating a repository on GitHub in which I pushed my code to. Using GitHub Pages, I was able to publish my repository- giving the application it's own web address: https://lpenenburgh.github.io/responsive-portfolio/
     * Creating a nav-bar with functional links by using Bootstraps nav components and then connecting my 3 html pages together using "href=./...."
     * Creating working links to social media that open in a new tab using "target_blank"
     * Checked each pages' HTML using a validation service from https://validator.w3.org/ 
