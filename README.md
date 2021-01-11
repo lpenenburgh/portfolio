@@ -1,10 +1,10 @@
-# responsive-portfolio
+# Responsive-portfolio
 Homework #2
 
-## goals
-My goal for this assigment was to create a functional portfolio application that is consistant and is mobile responsive, using Bootstrap components.
+## Goals
+My goal for this assigment was to create a functional portfolio application that is consistent and is mobile responsive, using Bootstrap components.
 
-### methods for achieving goals
+### Methods for achieving goals
 
 * How I made my portfolio application functional:
     * I created a functional, deployed link for my application by creating a repository on GitHub in which I pushed my code to. Using GitHub Pages, I was able to publish my repository- giving the application it's own web address: "https://lpenenburgh.github.io/responsive-portfolio/"
@@ -12,7 +12,7 @@ My goal for this assigment was to create a functional portfolio application that
     * Creating working links to social media that open in a new tab using "target_blank"
     * Checked each pages' HTML using a validation service from https://validator.w3.org/ 
 
-* How I made my portfolio consistant:
+* How I made my portfolio consistent:
     * Using the same background image for all 3 pages
     * Using the same fonts and colors
     * Using semantic html so each page's code is similarily structured and easy to follow
@@ -25,5 +25,5 @@ My goal for this assigment was to create a functional portfolio application that
     * Utilized Bootstraps nav-bar component on each page to easily navigate between the three.
     * Utilized Bootstraps form component on my contact page
 
-
-
+#### Screenshots
+<img src="https://i.imgur.com/k6aW7pM.png" width="300"> <img src="https://i.imgur.com/94hyxdR.png" width="300"> <img src="https://i.imgur.com/2BsGusf.png" width="300">
