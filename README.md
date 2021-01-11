@@ -26,4 +26,8 @@ My goal for this assigment was to create a functional portfolio application that
     * Utilized Bootstraps form component on my contact page
 
 #### Screenshots
-<img src="https://i.imgur.com/k6aW7pM.png" width="300"> <img src="https://i.imgur.com/94hyxdR.png" width="300"> <img src="https://i.imgur.com/2BsGusf.png" width="300">
+<img src="https://i.imgur.com/k6aW7pM.png" width="300">
+<br>
+<img src="https://i.imgur.com/94hyxdR.png" width="300"> 
+<br>
+<img src="https://i.imgur.com/2BsGusf.png" width="300">
