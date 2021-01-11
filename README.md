@@ -20,7 +20,7 @@ My goal for this assigment was to create a functional portfolio application that
 
 * How I utilized Bootstrap compenents and grid system to make my application responsive:
     * Each page is layed out using Bootstrap's mobile-first flexbox grid. Each page and component in my application is positioned using their grid system by applying a series of rows and columns within a class of "container". 
-    * To ensure my application is responsive to all screen sizes, each column includes how big the component will be starting at a xsmall breakpoint, then bigger. I also tried to use only Bootstrap components, since they are designed to be responsive and minimize the use of media queries- I was able to not have to make any media queries of my own in my css because of this.
+    * To ensure my application is responsive to all screen sizes, each column includes how big the component will be starting at a xsmall breakpoint, then bigger. I also tried to use only Bootstrap components, since they are designed to be responsive and minimize the use of media queries- I didn't have to make any media queries of my own in my css because of this.
     * Utilized Bootstrap cards for both my index and portfolio pages and put my personalized information within them.
     * Utilized Bootstraps nav-bar component on each page to easily navigate between the three.
     * Utilized Bootstraps form component on my contact page
