@@ -34,8 +34,17 @@ h5 {
     
 }
 
+.card-title {
+    font-family: 'Tenor Sans', sans-serif;
+    text-align: center;
+}
+
 .link {
     color: black;
+}
+
+.projectlink {
+    color: white;
 }
 
 .aboutme {
@@ -85,5 +94,5 @@ label {
 
 /* Portfolio images */
 .card-img-top {
-    margin-bottom: 20px;
+    height: 300px;
 }
