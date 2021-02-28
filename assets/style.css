@@ -1,6 +1,6 @@
 /* Background picture */
 body {
-    background-image: url("./annie-spratt-8mqOw4DBBSg-unsplash.jpg");
+    background-image: url("./kevin-ianeselli-4iTVoGYY7bM-unsplash.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -16,6 +16,27 @@ h5 {
     font-size: 35px;
 }
 
+.logo {
+    margin-top: 90px;
+    height: 180px;
+    display: block;
+    margin-bottom: 5px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px;
+}
+
+.headshot {
+    margin-top: 90px;
+    height: 500px;
+    display: block;
+    margin-bottom: 5px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px;
+}
 
 /* Contact form */
 label {
@@ -23,7 +44,7 @@ label {
 }
 
 .container {
-    margin-top: 100px;
+    margin-top: 70px;
     margin-bottom: 95px;
 }
 
