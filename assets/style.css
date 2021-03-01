@@ -14,6 +14,10 @@ h1 {
 
 h5 {
     font-size: 35px;
+    color: white;
+}
+a {
+    color: white;
 }
 
 .navbar{
@@ -37,6 +41,7 @@ h5 {
 .card-title {
     font-family: 'Tenor Sans', sans-serif;
     text-align: center;
+    color: white;
 }
 
 .link {
